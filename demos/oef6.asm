@@ -1,0 +1,5 @@
+NOP
+LDA #-1
+STA 1
+STA (1)
+HLT

@@ -1,0 +1,7 @@
+NOP
+LDA #5
+STA 10
+INP
+STA (10)
+OUT
+HLT
